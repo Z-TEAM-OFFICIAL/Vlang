@@ -1,0 +1,13 @@
+const int SECONDS_PER_MINUTE = 60;
+const int MINUTES_PER_HOUR = 60;
+const int HOURS_PER_DAY = 24;
+const int SECONDS_PER_HOUR = SECONDS_PER_MINUTE * MINUTES_PER_HOUR;
+const int SECONDS_PER_DAY = SECONDS_PER_HOUR * HOURS_PER_DAY;
+const int FPS_TARGET = 60;
+const int MILLISECONDS_PER_FRAME = 1000 / FPS_TARGET;
+const int SHORT_TIMEOUT = 5;
+const int MEDIUM_TIMEOUT = 30;
+const int LONG_TIMEOUT = 120;
+const int DAY_LENGTH = 24 * 60;
+const int NIGHT_START = 20 * 60;
+const int DAY_START = 6 * 60;

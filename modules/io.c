@@ -1,0 +1,12 @@
+const int STDIN = 0;
+const int STDOUT = 1;
+const int STDERR = 2;
+const int FILE_READ = 1;
+const int FILE_WRITE = 2;
+const int FILE_APPEND = 4;
+const int FILE_BINARY = 8;
+const int IO_SUCCESS = 0;
+const int IO_ERROR_FILE_NOT_FOUND = -1;
+const int IO_ERROR_PERMISSION = -2;
+const int IO_ERROR_DISK_FULL = -3;
+const int IO_BUFFER_SIZE = 4096;
