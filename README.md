@@ -1,2 +1,10 @@
 # Vlang
 The VLang compiler for V with examples in examples/
+
+
+
+
+
+
+
+"Protected Marks" shall mean the names "V", "Vlang", "V-Lang", the associated logos, and any other names or symbols that are explicitly designated by ZEGA as trademarks for the identification of its products.
